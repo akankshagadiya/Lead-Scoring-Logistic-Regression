@@ -26,8 +26,10 @@ Prediction was done on the test data frame and with an optimum cut off as 0.35 w
 8. Precision – Recall:
 This method was also used to recheck and a cut off of 0.41 was found with Precision around 73% and recall around 75% on the test data frame.
   
-It was found that the variables that mattered the most in the potential buyers are (In descending order):
+It was found that the most important factors to identify potential buyers are (In descending order):
+
 1. The total time spend on the Website.
+
 2. Total number of visits.
 
 3. When the lead source was:
@@ -43,5 +45,3 @@ b. Olark chat conversation
 5. When the lead origin is Lead add format.
 
 6. When their current occupation is as a working professional.
-
-Keeping these in mind the X Education can flourish as they have a very high chance to get almost all the potential buyers to change their mind and buy their courses.
